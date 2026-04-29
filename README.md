@@ -2,7 +2,7 @@
 ## Starten der Umgebung
 Das Notebook kann per mybinder (https://mybinder.org/) geöffnet werden.
 Folgende Daten müssen in die Felder eingetragen werden:
-- Github Repo: https://github.com/simon1805/Logistic-Regression.git
+- Github Repo: https://github.com/simon1805/Decision-Tree.git
 - Git ref: main
 - File to open: index.ipynb
 ## Dokumentation
