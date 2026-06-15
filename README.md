@@ -1,10 +1,7 @@
 # Prüfungsaufgabe 1: Decision-Tree
 ## Starten der Umgebung
-Das Notebook kann per mybinder (https://mybinder.org/) geöffnet werden.
-Folgende Daten müssen in die Felder eingetragen werden:
-- Github Repo: https://github.com/simon1805/Decision-Tree.git
-- Git ref: main
-- File to open: index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simon1805/Decision-Tree/main?filepath=index.ipynb)
+
 ## Dokumentation
 - Ziel dieses Modells ist es, anhand von Unternehmensdaten aus der Zeit vor dem Börsengang vorherzusagen, ob ein Kreditnehmer sein Darlehen zurückgezahlt hat oder nicht
 - Dazu folgt zuerst eine "Explorative Daten Analyse"
